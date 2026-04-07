@@ -1,19 +1,52 @@
-# Day 1 - Product Metrics
+# 📊 Day 1 – Product Metrics & Business Thinking
 
-## Swiggy
-Retention: % of users who order again
-Churn: users who stop ordering
+## 🎯 Objective
+Understand key product metrics and apply them to real-world business scenarios.
 
-## Amazon
-Conversion: % of users who make a purchase
-DAU/MAU: active users on platform
+---
 
-## Case 1: Churn increase (Swiggy)
-- Poor food quality
-- Delivery delays
-- High prices
+## 🟡 Case Study 1: Swiggy
 
-## Case 2: Conversion drop (Amazon)
-- Pricing issues
-- Checkout friction
-- Poor product descriptions
+### 🔹 Retention
+Percentage of users who continue to place orders over time.
+
+### 🔹 Churn
+Users who stop ordering from the platform.
+
+---
+
+## 🟡 Case Study 2: Amazon
+
+### 🔹 Conversion
+Percentage of users who complete a purchase out of total visitors.
+
+### 🔹 DAU / MAU
+Number of users actively engaging with the platform daily/monthly (browsing, searching, purchasing).
+
+---
+
+## 🧠 Business Case 1: Increase in Churn (Swiggy)
+
+### Possible Reasons:
+- Poor food quality  
+- Delayed deliveries  
+- Increase in pricing  
+
+---
+
+## 🧠 Business Case 2: Drop in Conversion (Amazon)
+
+### Possible Reasons:
+- High product pricing  
+- Poor product descriptions or reviews  
+- Complex checkout process  
+
+---
+
+## 🚀 Key Learnings
+- Metrics should be linked to business outcomes  
+- Conversion is a pre-purchase metric  
+- Churn is a post-experience metric  
+- Always analyze data with a business perspective  
+
+---
