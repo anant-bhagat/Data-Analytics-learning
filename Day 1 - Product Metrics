@@ -1,1 +1,19 @@
+# Day 1 - Product Metrics
 
+## Swiggy
+Retention: % of users who order again
+Churn: users who stop ordering
+
+## Amazon
+Conversion: % of users who make a purchase
+DAU/MAU: active users on platform
+
+## Case 1: Churn increase (Swiggy)
+- Poor food quality
+- Delivery delays
+- High prices
+
+## Case 2: Conversion drop (Amazon)
+- Pricing issues
+- Checkout friction
+- Poor product descriptions
