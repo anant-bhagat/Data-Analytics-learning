@@ -1,1 +1,91 @@
+# 🚀 Day 2 – Product Thinking & Metrics
 
+## 🎯 Objective
+Understand how to define Core Value, North Star Metric (NSM), and Supporting Metrics for different businesses.
+
+---
+
+## 🟡 Zomato
+
+### 🔹 Core Value
+Enable users to discover a variety of food options and get them delivered quickly and reliably.
+
+### 🔹 North Star Metric (NSM)
+Number of successful orders delivered.
+
+### 🔹 Supporting Metrics
+- Delivery time  
+- Order success rate  
+- Customer retention  
+- Average order value  
+
+---
+
+## 🟣 Netflix
+
+### 🔹 Core Value
+Provide on-demand, personalized entertainment to users.
+
+### 🔹 North Star Metric (NSM)
+Total watch time (hours watched).
+
+### 🔹 Supporting Metrics
+- Daily Active Users (DAU)  
+- Retention rate  
+- Content completion rate  
+- Subscription renewal rate  
+
+---
+
+## 🟢 Uber
+
+### 🔹 Core Value
+Enable users to get rides quickly, reliably, and affordably.
+
+### 🔹 North Star Metric (NSM)
+Number of completed rides.
+
+### 🔹 Supporting Metrics
+- Driver availability  
+- Ride acceptance rate  
+- Average wait time  
+- Customer ratings  
+
+---
+
+## 🧠 Business Case: Amazon
+
+### Problem
+Revenue increased, but customer satisfaction decreased.
+
+### Interpretation
+Short-term growth but long-term risk due to declining user experience.
+
+### Possible Reasons
+- Delayed deliveries  
+- Poor product quality  
+- Pricing mismatch  
+- Inefficient return process  
+
+### Analysis Approach
+- Customer ratings and reviews  
+- Return rates  
+- Delivery performance  
+- Repeat purchase behavior  
+- Seller performance  
+
+### Recommendations
+- Improve quality control  
+- Optimize delivery operations  
+- Enhance return experience  
+- Monitor seller performance  
+
+---
+
+## 🚀 Key Learnings
+- NSM should reflect customer value, not just revenue  
+- Supporting metrics help diagnose problems  
+- Short-term gains can harm long-term growth  
+- Business thinking is critical in data analysis  
+
+---
